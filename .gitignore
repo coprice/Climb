@@ -1,0 +1,6 @@
+Demos
+*.DS_Store
+ClimbTests
+ClimbUITests
+*.lock
+Pods
